@@ -4,7 +4,7 @@
 
 ![Buy page](UI-screenshots/1.png)
 
-## Features
+## Features:
 
 - **Home Page**: 
   - A welcoming introduction to your travel services.
